@@ -1,4 +1,4 @@
-#USED TECHNOLOGY
+# USED TECHNOLOGY
 HTML CSS JAVASCRIPT
 
 I have used HTML5 and CSS3 to make layouts, design and to make website responsive.
@@ -11,3 +11,6 @@ the image background so the text can be more clearly visible.
 
 some section has small hyphen to seperate the two contents. to make this hyphen i have used pseudo element ::after
 I have tried my best to make the same layout by using similar fonts.
+
+# DEPLOYED @
+https://sheru-fe-assignment.vercel.app/
