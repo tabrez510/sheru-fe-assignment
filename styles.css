@@ -118,11 +118,12 @@ body {
 }
 
 .banner-box p {
-    font-size: 14px;
+    width: 32vw;
+    font-size: 13px;
 }
 
 .banner-box span {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 500;
 }
 
@@ -360,11 +361,17 @@ body {
     .section-p1{
         padding: 7rem 8vh;
     }
+    .banner-box p {
+        width: 50vw;
+    }
 }
 
 @media (max-width: 834px){
     .section-p1{
         padding: 40px 40px;
+    }
+    .banner-box p {
+        width: 60vw;
     }
 }
 
@@ -418,6 +425,10 @@ body {
       color: #222;
       font-size: 24px;
     }
+
+    .banner-box p {
+        width: 70vw;
+    }
     #section-4 .img-card-container img {
         width: 300px;
     }
@@ -440,6 +451,9 @@ body {
         font-size: 40px;
         font-family: 'Manrope', sans-serif;
         font-weight: 700;
+    }
+    .banner-box p {
+        width: 85vw;
     }
     .banner-box .banner-box-h1 {
         margin-bottom: -20px;
