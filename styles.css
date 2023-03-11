@@ -103,7 +103,7 @@ body {
   /* Banner */
 
 #banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(assets/banner1.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(assets/banner1.png);
     color: #fff;
 }
 
@@ -173,7 +173,7 @@ body {
 /* Section-3 */
 
 #section-3 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(assets/banner1.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(assets/banner1.png);
     color: #fff;
 }
 
